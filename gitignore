@@ -1,0 +1,18 @@
+# RASE run artifacts - these contain the machine name, user name, disk serial
+# numbers and partition layout of whoever ran the script. Never commit them.
+RASE_Reports/
+RASE_v*_Report_*.html
+RASE_v*_Report_*.json
+RASE_v*_DiskTable_*.csv
+RASE_v*_Transcript_*.txt
+RASE_v*_Errors_*.txt
+
+# Local configuration override
+RASE.config.psd1
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
