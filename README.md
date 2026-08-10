@@ -53,7 +53,7 @@ apply registry-level NTFS changes or delete shadow copies if no rollback point e
 
 ## Quick start
 
-The repository includes `Start_RASE_v73.6.9.bat`. Double-click it: it requests Administrator
+The repository includes `Start_RASE.bat`. Double-click it: it requests Administrator
 rights once, then offers a menu of run modes in the same console window.
 
 ```
